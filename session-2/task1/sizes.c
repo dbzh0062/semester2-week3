@@ -8,9 +8,9 @@
 
 int main( void ) {
 
-    char testChar;
-    int testInt;
-    float testFloat;
+    char testChar = 'b';
+    int testInt = 6;
+    float testFloat = 7.8679876544345678987654323456789;
 
     printf("Char size is %ld bytes\n",sizeof(testChar));
     printf("Int size is %ld bytes\n",sizeof(testInt));
