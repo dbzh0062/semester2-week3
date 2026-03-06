@@ -3,16 +3,16 @@
 
 /*
  * Potrfolio submission
- * Name:
- * ID:
+ * Name: Ralph Brooks
+ * ID: 201933646
  */
 
  int main( void ) {
 
     // define and initialise variables for the problem data 
-   float salary = 20000;
-   float nationalInsurance = 5;
-   float taxRate = 10;
+   float salary = 36250;
+   float nationalInsurance = 8;
+   float taxRate = 15;
 
     // calculate the deductions and final take-home salary
 
